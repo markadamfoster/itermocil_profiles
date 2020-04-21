@@ -1,0 +1,8 @@
+windows:
+  - name: photo-invoice-app
+    root: ~/Dev/PhotoInvoice/app
+    layout: main-vertical
+    panes:
+      - yarn run test
+      - code .
+      - yarn start

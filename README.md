@@ -1,0 +1,2 @@
+- Official itermocil docs: https://github.com/TomAnthony/itermocil/
+- Blog Post: https://markadamfoster.com/itermocil/

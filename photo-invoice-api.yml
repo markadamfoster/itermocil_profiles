@@ -1,0 +1,9 @@
+windows:
+  - name: photo-invoice-api
+    root: ~/Dev/PhotoInvoice/api
+    layout: double-main-vertical
+    panes:
+      - mongo-start
+      - yarn run test
+      - code .
+      - yarn start
