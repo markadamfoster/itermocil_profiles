@@ -1,0 +1,8 @@
+windows:
+  - name: kidcheck-spa
+    root: ~/Dev/KidCheck/CheckinSPA
+    layout: main-vertical
+    panes:
+      - yarn run test
+      - code .
+      - yarn start

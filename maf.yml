@@ -1,0 +1,7 @@
+windows:
+  - name: maf
+    root: ~/Dev/maf
+    layout: even-horizontal
+    panes:
+      - yarn start
+      - code .
