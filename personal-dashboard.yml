@@ -1,0 +1,7 @@
+windows:
+  - name: personal-dashboard
+    root: ~/Dev/personal-dashboard
+    layout: even-horizontal
+    panes:
+      - npm start
+      - code .
