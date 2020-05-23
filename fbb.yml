@@ -1,0 +1,7 @@
+windows:
+  - name: fbb
+    root: ~/Dev/fbb
+    layout: even-horizontal
+    panes:
+      - npm start
+      - code .
