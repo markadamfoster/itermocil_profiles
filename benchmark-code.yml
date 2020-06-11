@@ -1,0 +1,7 @@
+windows:
+  - name: benchmark-code
+    root: ~/Dev/benchmark-code
+    layout: even-horizontal
+    panes:
+      - npm start
+      - code .
