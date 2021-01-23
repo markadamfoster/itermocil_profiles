@@ -1,0 +1,7 @@
+windows:
+  - name: flocknote-react
+    root: ~/Dev/fn/fn-signups
+    layout: even-horizontal
+    panes:
+      - npm start
+      - code .
