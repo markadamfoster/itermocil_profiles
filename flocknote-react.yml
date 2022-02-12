@@ -1,7 +1,7 @@
 windows:
   - name: flocknote-react
-    root: ~/Dev/FN/Flocknote
+    root: ~/Dev/FN/Flocknote/fnreact
     layout: even-horizontal
     panes:
-      - npm run react-start
+      - npm run start-ssl
       - code .
