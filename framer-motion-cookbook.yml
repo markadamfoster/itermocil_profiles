@@ -1,0 +1,7 @@
+windows:
+  - name: framer-motion-cookbook
+    root: ~/Dev/framer-motion-cookbook
+    layout: even-horizontal
+    panes:
+      - npm run dev
+      - code .
