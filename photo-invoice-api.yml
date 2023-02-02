@@ -3,7 +3,7 @@ windows:
     root: ~/Dev/PhotoInvoice/api
     layout: double-main-vertical
     panes:
-      - brew services start mongodb-community@5.0
-      - yarn run test
+      - brew services start mongodb-community
+      - npm run test
       - code .
-      - yarn start
+      - npm start
