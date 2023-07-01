@@ -1,0 +1,8 @@
+windows:
+  - name: wandrer
+    root: ~/Dev/wandrer
+    layout: main-vertical
+    panes:
+      - code .
+      - browser-sync . -w
+      - cd mockServer; nodemon .
