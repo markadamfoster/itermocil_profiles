@@ -1,7 +1,0 @@
-windows:
-  - name: kidcheck-guardian
-    root: ~/Dev/KidCheck/kidcheck-guardian
-    layout: even-horizontal
-    panes:
-      - npm run dev
-      - code .
