@@ -4,5 +4,5 @@ windows:
     layout: main-vertical
     panes:
       - yarn run test
-      - code .
+      - cursor .
       - yarn start

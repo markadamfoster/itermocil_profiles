@@ -5,5 +5,5 @@ windows:
     panes:
       - brew services start mongodb-community
       - npm run test
-      - code .
+      - cursor .
       - npm start

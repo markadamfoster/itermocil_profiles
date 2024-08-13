@@ -4,4 +4,4 @@ windows:
     layout: even-horizontal
     panes:
       - npm run dev
-      - code .
+      - cursor .
