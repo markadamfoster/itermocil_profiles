@@ -3,6 +3,6 @@ windows:
     root: ~/Dev/PhotoInvoice/app
     layout: main-vertical
     panes:
-      - yarn run test
+      - npm run test
       - cursor .
-      - yarn start
+      - npm run dev
