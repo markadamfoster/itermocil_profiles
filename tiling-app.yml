@@ -1,0 +1,8 @@
+windows:
+  - name: tiling-app
+    root: ~/Dev/tiling-app/app
+    layout: main-vertical-flipped
+    panes:
+      - npm run dev
+      - supabase start
+      - cursor .
